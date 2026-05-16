@@ -1,6 +1,16 @@
 # Fairspec
 
-Meta-repository that ties together all Fairspec repos. Each subdirectory (`fairspec-application`, `fairspec-cardealer`, `fairspec-extension`, `fairspec-python`, `fairspec-standard`, `fairspec-typescript`, `vitest-polly`) is its own git repository, gitignored from this meta-repo.
+Meta-repository that ties together all Fairspec repos. Each subdirectory listed below is its own git repository, gitignored from this meta-repo.
+
+## Repos
+
+- `fairspec-application`
+- `fairspec-cardealer`
+- `fairspec-extension`
+- `fairspec-python`
+- `fairspec-standard`
+- `fairspec-typescript`
+- `vitest-polly`
 
 ## Rules
 
